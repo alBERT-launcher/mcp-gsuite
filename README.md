@@ -1,6 +1,6 @@
 # mcp-gsuite MCP server
 
-[![smithery badge](https://smithery.ai/badge/mcp-gsuite)](https://smithery.ai/protocol/mcp-gsuite)
+[![smithery badge](https://smithery.ai/badge/mcp-gsuite)](https://smithery.ai/server/mcp-gsuite)
 MCP server to interact with Google produts.
 
 ## Example prompts
@@ -50,10 +50,10 @@ Example prompts you can try:
 
 ### Installing via Smithery
 
-To install mcp-gsuite for Claude Desktop automatically via [Smithery](https://smithery.ai/protocol/mcp-gsuite):
+To install mcp-gsuite for Claude Desktop automatically via [Smithery](https://smithery.ai/server/mcp-gsuite):
 
 ```bash
-npx @smithery/cli install mcp-gsuite --client claude
+npx -y @smithery/cli install mcp-gsuite --client claude
 ```
 
 #### Oauth 2
